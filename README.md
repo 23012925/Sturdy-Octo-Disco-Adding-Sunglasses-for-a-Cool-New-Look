@@ -29,10 +29,10 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 
 ## PROGRAM:
 
-## DEVELOPED BY: SARANYA S.
-## REG NO: 212223220101
+## DEVELOPED BY: JANARTHANAN K
+## REG NO: 212223040072
 
-PYTHON:
+## PYTHON:
 
 ```
 # Import libraries
@@ -106,4 +106,5 @@ plt.subplot(122);plt.imshow(faceWithGlassesArithmetic[:,:,::-1]);plt.title("With
 
 # Display the images for clarity:
 
+<img width="623" height="555" alt="image" src="https://github.com/user-attachments/assets/e778b1aa-588e-4502-a9e9-530858801a18" />
 
