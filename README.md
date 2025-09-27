@@ -40,7 +40,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 # Load the Face Image
-faceImage = cv2.imread('saran.JPG')
+faceImage = cv2.imread('jana.JPG')
 plt.imshow(faceImage[:,:,::-1]);plt.title("Face")
 
 faceImage.shape
@@ -108,3 +108,8 @@ plt.subplot(122);plt.imshow(faceWithGlassesArithmetic[:,:,::-1]);plt.title("With
 
 <img width="623" height="555" alt="image" src="https://github.com/user-attachments/assets/e778b1aa-588e-4502-a9e9-530858801a18" />
 
+<img width="1106" height="244" alt="image" src="https://github.com/user-attachments/assets/7b5fe56e-d1aa-4dd1-8b27-7eb9f032df6e" />
+
+<img width="1123" height="204" alt="image" src="https://github.com/user-attachments/assets/ae364a66-045f-413f-9b7d-404f1960717c" />
+
+<img width="1126" height="469" alt="image" src="https://github.com/user-attachments/assets/6849aa46-09ec-40fe-a6e2-536875a673e2" />
